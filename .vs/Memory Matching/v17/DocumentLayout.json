@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\Memory Matching\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0760A45-2E1C-3075-5A36-BE61487617C1}|Assembly-CSharp.csproj|e:\\unity\\memory matching\\assets\\scripts\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0760A45-2E1C-3075-5A36-BE61487617C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0760A45-2E1C-3075-5A36-BE61487617C1}|Assembly-CSharp.csproj|E:\\Unity\\Memory Matching\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0760A45-2E1C-3075-5A36-BE61487617C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Memory Matching\\Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Editor\\UGUI\\UI\\GridLayoutGroupEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Editor\\UGUI\\UI\\GridLayoutGroupEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0760A45-2E1C-3075-5A36-BE61487617C1}|Assembly-CSharp.csproj|E:\\Unity\\Memory Matching\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0760A45-2E1C-3075-5A36-BE61487617C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0760A45-2E1C-3075-5A36-BE61487617C1}|Assembly-CSharp.csproj|E:\\Unity\\Memory Matching\\assets\\scripts\\entryscenebuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0760A45-2E1C-3075-5A36-BE61487617C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entryscenebuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "E:\\Unity\\Memory Matching\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "E:\\Unity\\Memory Matching\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:55:49.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridLayoutGroupEditor.cs",
+              "DocumentMoniker": "E:\\Unity\\Memory Matching\\Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Editor\\UGUI\\UI\\GridLayoutGroupEditor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Editor\\UGUI\\UI\\GridLayoutGroupEditor.cs",
+              "ToolTip": "E:\\Unity\\Memory Matching\\Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Editor\\UGUI\\UI\\GridLayoutGroupEditor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Editor\\UGUI\\UI\\GridLayoutGroupEditor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:48:40.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "E:\\Unity\\Memory Matching\\Assets\\Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
+              "ToolTip": "E:\\Unity\\Memory Matching\\Assets\\Scripts\\Card.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:31:40.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntrySceneButtonManager.cs",
+              "DocumentMoniker": "E:\\Unity\\Memory Matching\\Assets\\Scripts\\EntrySceneButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EntrySceneButtonManager.cs",
+              "ToolTip": "E:\\Unity\\Memory Matching\\Assets\\Scripts\\EntrySceneButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EntrySceneButtonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:23:14.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "E:\\Unity\\Memory Matching\\Assets\\Scripts\\CardController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardController.cs",
+              "ToolTip": "E:\\Unity\\Memory Matching\\Assets\\Scripts\\CardController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:53:33.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
